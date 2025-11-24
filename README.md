@@ -40,30 +40,23 @@ A Python-based bank account application that allows users to create accounts, pe
    python main.py
    ```
 
-3. Follow the prompts:
-   - Select option 1 to create a new account (requires initial deposit)
-   - Select option 2 to login to an existing account
-   - Use the banking menu to perform transactions
-   - View account information and transaction history
+3. To Use the Programme:
+   - Select option 1 to create a new account and enter an initial deposit amount.
+   - Select option 2 to login to an existing account.
+   - Use the banking menu to perform various transactions like deposit, withdrawal, checking balance, etc.
+   - View account information and transaction history.
 
 ## Instructions for Testing
 
-**Example Test Case:**
+**Input:**
 
-Input:
 - Create Account: Account number automatically generated, PIN: 1234, Initial Deposit: ₹5000
 - Deposit: ₹1000
 - Withdraw: ₹500
 - Check Balance: Shows updated balance
 - View Transaction History: Shows all transactions
 
-Run unit tests:
-```bash
-python tests/test_transactions.py
-python tests/test_account_manager.py 
-```
-
-## Output (Screenshots)
+## Output: (Screenshots)
 
 ### Screenshot 1: Initial Welcome and Account Creation
 [Welcome and Account Creation]<img width="1421" height="531" alt="Initial Welcome and Account Creation" src="https://github.com/user-attachments/assets/e13748a1-5f37-43e9-b03f-9dd53aa7825e" />
@@ -90,23 +83,3 @@ python tests/test_account_manager.py
 
 ### Screenshot 7: Transaction History and Application Exit
 [Transaction History and Exit]<img width="1019" height="664" alt="Transaction History and Application Exi" src="https://github.com/user-attachments/assets/7198ef75-76df-4dce-bc82-8a756f80fc9c" />
-
-
-
-## File Structure
-```
-VITYARTHI-Project-Problem-Solving-and-Programming/
-├── main.py
-├── account_manager.py
-├── transactions.py
-├── account_info.py
-├── banking_menu.py
-├── README.md
-├── statement.md
-└── tests/
-    ├── test_transactions.py
-    └── test_account_manager.py
-```
-
-## Author
-Sanskriti161
