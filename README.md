@@ -66,28 +66,31 @@ python tests/test_account_manager.py
 ## Output (Screenshots)
 
 ### Screenshot 1: Initial Welcome and Account Creation
-![Welcome and Account Creation](https://github.com/Sanskriti161/VITYARTHI-Project-Problem-Solving-and-Programming/raw/main/screenshots/screenshot1.png)
+![Welcome and Account Creation]<img width="1421" height="531" alt="Initial Welcome and Account Creation" src="https://github.com/user-attachments/assets/e13748a1-5f37-43e9-b03f-9dd53aa7825e" />
+
 
 ### Screenshot 2: Deposit and Withdraw Operations
-![Deposit and Withdraw](https://github.com/Sanskriti161/VITYARTHI-Project-Problem-Solving-and-Programming/raw/main/screenshots/screenshot2.png)
+![Deposit and Withdraw]<img width="1121" height="528" alt="Deposit and Withdraw Operations" src="https://github.com/user-attachments/assets/5f4320b2-adc8-4af3-baec-8a6b16007f06" />
 
 ### Screenshot 3: PIN Verification (Incorrect PIN)
-![PIN Verification Error](https://github.com/Sanskriti161/VITYARTHI-Project-Problem-Solving-and-Programming/raw/main/screenshots/screenshot3.png)
+![PIN Verification Error]<img width="1018" height="508" alt="PIN Verification (Incorrect PIN)" src="https://github.com/user-attachments/assets/5040fb45-0b62-4d22-b6e6-54d6fedbf5db" />
 
 
 ### Screenshot 4: PIN Verification (Correct PIN)
-![PIN Verification Success](https://github.com/Sanskriti161/VITYARTHI-Project-Problem-Solving-and-Programming/raw/main/screenshots/screenshot4.png)
+![PIN Verification Success]<img width="1050" height="506" alt="PIN Verification (Correct PIN)" src="https://github.com/user-attachments/assets/d4644dda-c16b-463e-8e12-37f2d8e855ec" />
 
 
 ### Screenshot 5: View Account Information and Transaction History
-![Account Info and Transaction History](https://github.com/Sanskriti161/VITYARTHI-Project-Problem-Solving-and-Programming/raw/main/screenshots/screenshot5.png)
+![Account Info and Transaction History]<img width="1307" height="637" alt="View Account Information and Transaction History" src="https://github.com/user-attachments/assets/9a2e8167-2295-4b86-96f8-5e6362b1a614" />
+
 
 
 ### Screenshot 6: Logout and Login to Existing Account
-![Logout and Login](https://github.com/Sanskriti161/VITYARTHI-Project-Problem-Solving-and-Programming/raw/main/screenshots/screenshot6.png)
+![Logout and Login]<img width="1000" height="556" alt="Logout and Login to Existing Account" src="https://github.com/user-attachments/assets/a7cd1b58-1a5b-4631-b186-9e142df7c378" />
 
 ### Screenshot 7: Transaction History and Application Exit
-![Transaction History and Exit](https://github.com/Sanskriti161/VITYARTHI-Project-Problem-Solving-and-Programming/raw/main/screenshots/screenshot7.png)
+![Transaction History and Exit]<img width="1019" height="664" alt="Transaction History and Application Exi" src="https://github.com/user-attachments/assets/7198ef75-76df-4dce-bc82-8a756f80fc9c" />
+
 
 
 ## File Structure
